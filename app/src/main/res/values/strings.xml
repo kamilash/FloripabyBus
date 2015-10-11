@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Floripa by Bus</string>
+
+    <string name="title_activity_main">Floripa by Bus</string>
+    <string name="title_activity_details">Route Details</string>
+    <string name="title_activity_maps">Map Search Road</string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_search">Search</string>
+    <string name="button_map">Map</string>
+
+    <string name="input_search">Search routes</string>
+</resources>
