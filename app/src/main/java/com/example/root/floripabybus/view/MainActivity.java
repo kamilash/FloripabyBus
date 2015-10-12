@@ -76,7 +76,6 @@ public class MainActivity extends ListActivity implements IMainView {
         hideProgress();
         if(routes.isEmpty()) {
             showEmptyResponseMessage();
-            return;
         }
         ArrayAdapter<Route> adapter = new ArrayAdapter<Route>(MainActivity.this,
                 android.R.layout.simple_list_item_1, routes);
