@@ -8,15 +8,15 @@ This project contains three activities.
 
 The MainActivity is where you can search the routes by street name.
 
-<img src="images/main_activity.png" alt="Architecture" style="width: 200px;"/>
+<img src="images/main_activity.png" alt="Architecture" style="width: 10px;"/>
 
 On MapsActivity you can tap on the street location on the map to easily search by street name.
 
-<img src="images/maps_activity.png" alt="Architecture" style="width: 200px;"/>
+<img src="images/maps_activity.png" alt="Architecture" style="width: 10px;"/>
 
 Finally the DetailsActivity shows the route list and the timetable divided by weekdays, Saturday and Sunday.
 
-<img src="images/details_activity.png" alt="Architecture" style="width: 200px;"/>
+<img src="images/details_activity.png" alt="Architecture" style="width: 10px;"/>
 
 ##Usage
 
